@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Shahnawaz Alam 👋
+
+## Computer Vision Engineer
+
+- 🔭 currently solving multi-cam multi-object tracking problem.
+- 🌱 I’m currently learning Reinforcement Learning, Statistical Programming, Computer Networks.
+- 👯 I’m looking to collaborate on open source tool to facilitate object tracking.
+- 💬 Ask me about Neural Networks, Data Structures/Algo, Photography.
+
+Keywords: `Computer Vision`, `Deep Learning`, `Edge Computing`, `AI`
 
 <!--
 **shaanrockz/shaanrockz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
