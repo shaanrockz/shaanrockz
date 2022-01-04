@@ -2,10 +2,10 @@
 
 ## Computer Vision Engineer
 
-- 🔭 currently solving multi-cam multi-object tracking problem.
-- 🌱 I’m currently learning Reinforcement Learning, Statistical Programming, Computer Networks.
-- 👯 I’m looking to collaborate on open source tool to facilitate object tracking.
-- 💬 Ask me about Neural Networks, Data Structures/Algo, Photography.
+- 🔭 currently solving multi-cam multi-object tracking problem (Computer Vision).
+- 🌱 I’m currently learning Reinforcement Learning, Statistical Programming, System Design.
+- 👯 I’m looking to collaborate on open source tool for computer vision, deep learning.
+- 💬 Ask me about Neural Networks, Computer Vision, Software Development, Data Structures/Algo, Photography.
 
 Keywords: `Computer Vision`, `Deep Learning`, `Edge Computing`, `AI`
 
