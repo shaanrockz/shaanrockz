@@ -2,7 +2,7 @@
 
 ## Computer Vision Engineer
 
-- 🔭 currently solving multi-cam multi-object tracking problem (Computer Vision).
+- 🔭 currently solving multi-cam multi-object damage detection problem (Computer Vision).
 - 🌱 I’m currently learning Reinforcement Learning, Statistical Programming, System Design.
 - 👯 I’m looking to collaborate on open source tool for computer vision, deep learning.
 - 💬 Ask me about Neural Networks, Computer Vision, Software Development, Data Structures/Algo, Photography.
